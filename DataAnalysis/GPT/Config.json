@@ -1,0 +1,9 @@
+﻿	{
+	    "Model": "text-davinci-002",
+	    "MaxTokens": 1000,
+	    "StopToken": "*",
+	    "Temperature": 0.8,
+	    "ApiKeyVariable": "UIPATH_OPEN_AI_API_KEY",
+	    "BaseAPIUrl": "https://api.openai.com/v1/engines",
+	    "Capability": "completions"
+	}
